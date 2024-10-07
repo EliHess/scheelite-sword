@@ -32,6 +32,6 @@ To run the notebook, simply open the .ipynb file in your desired editor.
 
 ## Licensing
 
-I decided to go with the MIT license which allows anyone to use, copy, modify, and distribute my code, even in proprietary projects, as long as the original license and copyright notice are included.
+I decided to use the MIT license which allows anyone to use, copy, modify, and distribute my code, even in proprietary projects, as long as the original license and copyright notice are included.
 
   
